@@ -6,6 +6,7 @@ const b=()=>{
     return '5'; 
 }
 const c=()=>{
+    console.log("i chane quin!!!🚚🚜🛵🚄🏎!!");
     console.log("cccccccccc");
 }
 const d=()=>{
@@ -15,4 +16,7 @@ const e=()=>{
     alert("eeeeeeee🎈🎈"); 
     
 }
+
+  
+
 
