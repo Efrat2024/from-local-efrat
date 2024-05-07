@@ -6,5 +6,5 @@ const b=()=>{
     return '5'; 
 }
 const c=()=>{
-   console.log("ccccccccccccccccccccccccc");
+   console.log("i chane quin!!!🚚🚜🛵🚄🏎!!");
 }
