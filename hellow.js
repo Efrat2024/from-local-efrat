@@ -11,3 +11,8 @@ const c=()=>{
 const d=()=>{
     confirm("Are yu sure??????????")
 }
+const e=()=>{
+    alert("eeeeeeee🎈🎈"); 
+    
+}
+
